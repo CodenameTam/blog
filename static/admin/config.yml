@@ -1,6 +1,6 @@
 backend: # Set up your backend
   name: gitlab
-  repo: https://gitlab.com/CodenameTam/blog.git
+  repo: CodenameTam/blog
 
 local_backend: true # Optional if you want to use the local proxy mode
 
