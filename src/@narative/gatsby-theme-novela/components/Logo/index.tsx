@@ -9,10 +9,10 @@ const Logo: Icon = ({ fill = "white" }) => {
   return (
     <LogoContainer>
       <svg
-        width="250"
+        width="250" 
         height="38"
         viewBox="0 0 250 38"
-        fill="black"
+        fill="#7A8085"
         xmlns="http://www.w3.org/2000/svg"
         className="Logo__Desktop"
       >
@@ -24,7 +24,7 @@ const Logo: Icon = ({ fill = "white" }) => {
         width="38"
         height="38"
         viewBox="0 0 38 38"
-        fill="black"
+        fill="#7A8085"
         xmlns="http://www.w3.org/2000/svg"
         className="Logo__Mobile"
       >
