@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://tamaraharris.dev`,
     description: `Documenting my blog journey to break into the tech industry`,
     hero: {
-      heading: `Welcome to my official blog, the source for confidently stumbling into tech.`,
+      heading: `Welcome to my official blog; the source of my journey of confidently stumbling into tech.`,
       maxWidth: 652,
     },
     social: [
