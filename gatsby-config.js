@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `CodenameTam`,
+        short_name: `Tam`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
