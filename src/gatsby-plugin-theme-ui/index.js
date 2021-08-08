@@ -4,10 +4,10 @@ export default {
   ...novelaTheme,
   colors: {
     ...novelaTheme.colors,
-    primary: '#000',
+    primary: '#707070',
     secondary: '#30ffd5',
-    accent: '#6166DC',
-    grey: '#00ffdb',
+    accent: '#93c9fa',
+    grey: '#a14a2e',
     background: '#fff',
   },
 };
